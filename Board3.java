@@ -8,3 +8,5 @@ public class Board {
     private int viewCount = 0;
     public int  getViewCount()         { return viewCount; }
     public void incrementViewCount()   { this.viewCount++; }
+
+//jin이 수정함 
