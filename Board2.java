@@ -5,3 +5,4 @@ public class Board {
     // getter/setter 생략
 }
 //B계정이 수정함
+//A계정수정함
