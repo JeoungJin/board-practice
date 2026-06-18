@@ -4,3 +4,4 @@ public class Board {
     private String author;
     // getter/setter 생략
 }
+//A계정수정함
