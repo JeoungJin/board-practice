@@ -15,4 +15,6 @@ public class Board {
     private String title;
     private String author;
     // getter/setter 생략
+
+//B2가 추가함 
 }
