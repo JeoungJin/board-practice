@@ -17,4 +17,6 @@ public class Board {
     // getter/setter 생략
 
 //B2가 추가함 
+
+//A3이 수정합니다......
 }
